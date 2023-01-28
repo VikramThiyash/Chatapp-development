@@ -13,3 +13,5 @@ Author : Vikram
 5.Hiding the last seen
 
 6.Audio and video calls 
+
+7. Status feature
